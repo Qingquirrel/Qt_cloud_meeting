@@ -1,0 +1,23 @@
+..\..\widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+..\..\widget.cpp:Widget::40>>>main UI thread id: 0x00005CAC
+..\..\sendimg.cpp:run::17>>>start sending picture thread: 0x00003F40
+..\..\sendtext.cpp:run::35>>>start sending text thread: 0x00004588
+..\..\recvsolve.cpp:run::21>>>start solving data thread: 0x00007B20
+..\..\AudioOutput.cpp:run::111>>>start playing audio thread 0x00004DE0
+..\..\recvsolve.cpp:run::28>>>stop solving data thread: 0x00007B20
+..\..\sendimg.cpp:run::33>>>stop sending picture thread: 0x00003F40
+..\..\sendtext.cpp:run::48>>>stop sending text thread: 0x00004588
+..\..\AudioOutput.cpp:run::119>>>stop playing audio thread 0x00004DE0
+..\..\widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+..\..\widget.cpp:Widget::40>>>main UI thread id: 0x00005BC4
+..\..\sendimg.cpp:run::17>>>start sending picture thread: 0x00009248
+..\..\sendtext.cpp:run::35>>>start sending text thread: 0x00008604
+..\..\recvsolve.cpp:run::21>>>start solving data thread: 0x00007DA4
+..\..\AudioOutput.cpp:run::111>>>start playing audio thread 0x00004204
+..\..\widget.cpp:on_connServer_clicked::411>>>failed to connenct 192.168.1.126:8888
+..\..\widget.cpp:on_connServer_clicked::411>>>failed to connenct 127.0.0.1:8888
+..\..\widget.cpp:on_connServer_clicked::411>>>failed to connenct 127.0.0.1:8888
+..\..\recvsolve.cpp:run::28>>>stop solving data thread: 0x00007DA4
+..\..\sendimg.cpp:run::33>>>stop sending picture thread: 0x00009248
+..\..\sendtext.cpp:run::48>>>stop sending text thread: 0x00008604
+..\..\AudioOutput.cpp:run::119>>>stop playing audio thread 0x00004204

@@ -1,0 +1,18 @@
+2024-06-25 21:31:30 ..\..\widget.cpp:Widget::Widget::39>>>-------------------------Application Start---------------------------
+2024-06-25 21:31:30 ..\..\widget.cpp:Widget::Widget::40>>>main UI thread id: 0x00000000000098D4
+2024-06-25 21:31:30 ..\..\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x00000000000082E0
+2024-06-25 21:31:30 ..\..\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x0000000000006780
+2024-06-25 21:31:30 ..\..\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x0000000000008FA4
+2024-06-25 21:31:30 ..\..\AudioOutput.cpp:AudioOutput::run::111>>>start playing audio thread 0x0000000000003274
+2024-06-25 21:41:59 ..\..\widget.cpp:Widget::on_connServer_clicked::411>>>failed to connenct 192.168.126.176:8888
+2024-06-25 21:42:03 ..\..\widget.cpp:Widget::on_connServer_clicked::411>>>failed to connenct 192.168.126.176:8888
+2024-06-25 21:42:23 ..\..\widget.cpp:Widget::on_connServer_clicked::411>>>failed to connenct 127.0.0.1:8888
+2024-06-25 21:43:27 ..\..\recvsolve.cpp:RecvSolve::run::28>>>stop solving data thread: 0x0000000000008FA4
+2024-06-25 21:43:30 ..\..\widget.cpp:Widget::Widget::39>>>-------------------------Application Start---------------------------
+2024-06-25 21:43:30 ..\..\widget.cpp:Widget::Widget::40>>>main UI thread id: 0x0000000000000388
+2024-06-25 21:43:30 ..\..\sendimg.cpp:SendImg::run::17>>>start sending picture thread: 0x0000000000005CFC
+2024-06-25 21:43:30 ..\..\sendtext.cpp:SendText::run::35>>>start sending text thread: 0x0000000000008C4C
+2024-06-25 21:43:30 ..\..\recvsolve.cpp:RecvSolve::run::21>>>start solving data thread: 0x0000000000007D34
+2024-06-25 21:43:30 ..\..\AudioOutput.cpp:AudioOutput::run::111>>>start playing audio thread 0x0000000000001C94
+2024-06-25 21:43:41 ..\..\widget.cpp:Widget::on_connServer_clicked::411>>>failed to connenct 127.0.0.1:8888
+2024-06-25 21:43:59 ..\..\widget.cpp:Widget::on_connServer_clicked::411>>>failed to connenct 192.168.126.176:8888
